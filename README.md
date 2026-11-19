@@ -1,2 +1,5 @@
 # wcag-contrast-checker
-Comprobador de Contraste WCAG 2.1 en línea para Diseñadores Web y Desarrolladores con pasarela de pago integrada.
+
+Este proyecto está en pausa y no ofrece ningún producto ni servicio a la venta.
+
+Herramienta gratuita disponible: [Calculadora de Comisiones LatAm](https://lucho-design1.github.io/fee-calculator-latam/)
